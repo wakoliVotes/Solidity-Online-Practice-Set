@@ -8,5 +8,5 @@
 - Links to respective Solidity illustrations are also included.
 - Also, **extra** information, or contract-specific explanations are also included for ease.
 - Anyone can use this repository as a learning platform
-- Collaborators are also welcome
-- Cheers!!
+- Any collaboration is much also welcome
+- Cheers !!!
