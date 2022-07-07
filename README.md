@@ -7,3 +7,6 @@
 - The collection covers an array of Solidity smart contracts sampled from multiple online sources to create a pool for practice.
 - Links to respective Solidity illustrations are also included.
 - Also, **extra** information, or contract-specific explanations are also included for ease.
+- Anyone can use this repository as a learning platform
+- Collaborators are also welcome
+- Cheers!!
